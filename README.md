@@ -26,5 +26,11 @@ Onboard page is accessed after successfully login with your valid email and pass
 
 The auth facebook template pages are insipared by [https://mazipan.github.io/login-page-css](https://mazipan.github.io/login-page-css)
 
+## Author
+
+patrickniyogitare28@gmail.com
+
+> ⚠️ This is for education purpose not a facebook scam
+
 
 [firebase]: https://firebase.google.com 
