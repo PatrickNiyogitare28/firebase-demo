@@ -16,9 +16,15 @@ Simply run then index page to access login
 
 ### Login
 
+![login-page](https://github.com/PatrickNiyogitare28/firebase-demo/blob/main/assets/login.png?raw=true)
+
 ### Signup
 
+![signup-page](https://github.com/PatrickNiyogitare28/firebase-demo/blob/main/assets/signup.png?raw=true)
+
 ### Onboarding page
+
+![onbaord-page](https://github.com/PatrickNiyogitare28/firebase-demo/blob/main/assets/onbaord.png?raw=true)
 
 Onboard page is accessed after successfully login with your valid email and password creds.
 
